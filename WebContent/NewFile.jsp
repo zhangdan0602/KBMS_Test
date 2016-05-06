@@ -7,6 +7,12 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 zhangdan
 </body>
 </html>
+=======
+test123
+</body>
+</html>
+>>>>>>> refs/remotes/origin/master
